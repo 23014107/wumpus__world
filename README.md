@@ -145,8 +145,8 @@ while(player):
 ```
 
 # Output:
+<img width="788" height="753" alt="image" src="https://github.com/user-attachments/assets/ae6d65bf-701a-4294-9207-a83e98cdcbba" />
 
-<img width="420" height="903" alt="image" src="https://github.com/user-attachments/assets/9bb2fa15-f542-4b64-987a-95be5c88de84" />
 
 # Result:
 Thus the program was executed successfully.
